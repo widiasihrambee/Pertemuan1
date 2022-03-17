@@ -13,5 +13,5 @@ fun main() {
     println("Difference: ${difference}")
     println("Product: ${product }")
     println("Quotient: ${quotient}")
-    println("Thank you for using alculator.")
+    println("Thank you for using calculator.")
 }
