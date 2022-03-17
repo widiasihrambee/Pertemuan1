@@ -1,5 +1,5 @@
 fun main() {
-    //Doubler program parsing
+    //Double program parsing
 
     println("Enter a number and I'11 square it is the best : ")
     val input = readLine()!!
