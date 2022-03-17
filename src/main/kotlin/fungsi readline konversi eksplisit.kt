@@ -1,7 +1,7 @@
 fun main() {
     //Doubler program parsing
 
-    println("Enter a number and I'11 square it: ")
+    println("Enter a number and I'11 square it is the best : ")
     val input = readLine()!!
     var a = input.toInt() //eventually double
     a= a * 2
