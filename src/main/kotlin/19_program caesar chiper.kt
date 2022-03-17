@@ -3,7 +3,7 @@ fun main() {
     // variabel initialization
 
     val s = "blackholesarewheregoddividedbyzero"
-    println("Original message: $s")
+    println("Original message.: $s")
     var message= ""
     var shift = 1
 
