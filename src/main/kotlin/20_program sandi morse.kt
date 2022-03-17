@@ -27,7 +27,7 @@ fun main() {
 
         }
     }
-    println("The decoded message: $message ")
+    println("The decoded message.: $message ")
 
 }
 
