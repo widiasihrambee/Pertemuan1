@@ -1,7 +1,7 @@
 fun main() {
     // Parrot program
     println("Hi I'm Lora , the virtual parrot, and i love to repeat! ");
-    println("Type something in. : ");
+    println("Type something in : ");
     var input: String
     input = readLine()!!
     var output: String
